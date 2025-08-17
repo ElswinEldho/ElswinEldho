@@ -13,7 +13,7 @@
 ### 🚀 About Me
 Enthusiastic and dedicated Computer Science & Engineering student with a passion for building useful, real-world software. I work mainly in **Python** (plus **C** and **HTML**) and enjoy experimenting with AI/ML, audio processing, and web apps.
 
-- 🎓 **B.Tech CSE (2022–2026)** @ Adi Shankara Institute of Engineering and Technology, Kalady — **CGPA: 8.5**
+- 🎓 **B.Tech CSE (2022–2026)** @ Adi Shankara Institute of Engineering and Technology, Kalady
 - 🔍 Interests: ML for healthtech, audio/speech, full-stack web, data viz
 
 ---
