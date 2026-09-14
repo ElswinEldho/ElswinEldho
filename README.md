@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Elswin P Eldho 👋
 
-<!--
-**ElswinEldho/ElswinEldho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Developer | Full-Stack Development | AI & Sustainability
 
-Here are some ideas to get you started:
+Computer Science Engineering graduate focused on building **scalable web applications, AI-powered solutions, and ESG & sustainability platforms**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning **business requirements into practical, user-friendly products** and continuously exploring new technologies.
+
+### 🛠️ Tech Stack
+
+**Languages:** Python · JavaScript · TypeScript
+**Frontend:** React · Next.js · Tailwind CSS
+**Backend:** Node.js · Express.js · REST APIs
+**Database:** PostgreSQL · MongoDB · Firebase
+**AI/ML:** Scikit-learn · Explainable AI · IoT
+**Tools:** Git · GitHub · Docker · Jira · Power BI
+
+### 🚀 Featured Work
+
+* 🌱 **Vendor-IQ** — Vendor ESG assessment & sustainability platform
+* ♻️ **EnSoGo** — Sustainability readiness intelligence platform
+* 🤖 **Speech Analysis Tool** — AI-powered speech analysis for therapists
+* 🌾 **Smart Agriculture** — IoT + AI-based soil intelligence & recommendations
+
+### 📫 Connect
+
+[GitHub](https://github.com/ElswinEldho) · [LinkedIn](https://linkedin.com/in/elswinpeldho) · [Portfolio](https://elswin-portfolio.vercel.app)
+
+> **Building useful technology with purpose.**
