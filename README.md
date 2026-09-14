@@ -24,6 +24,6 @@ I enjoy turning **business requirements into practical, user-friendly products**
 
 ### 📫 Connect
 
-[GitHub](https://github.com/ElswinEldho) · [LinkedIn](https://linkedin.com/in/elswinpeldho) · [Portfolio](https://elswin-portfolio.vercel.app)
+[LinkedIn](https://linkedin.com/in/elswinpeldho) · [Portfolio](https://elswin-portfolio.vercel.app)
 
 > **Building useful technology with purpose.**
